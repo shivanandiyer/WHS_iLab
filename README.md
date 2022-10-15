@@ -1,5 +1,5 @@
 
-Github Repository for WHS Project - iLab2  
+**Github Repository for WHS Project - iLab2**  
 
 - elastic_to_dataframe_py.ipynb - Fetches Elastic Data into a Python Dataframe  
   
